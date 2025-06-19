@@ -31,6 +31,9 @@ The dataset was sourced from the **UCI Machine Learning Repository**, and covers
 - **freetime, goout, Dalc, Walc**: Social habits and alcohol use
 
 ---
+![image](https://github.com/user-attachments/assets/f60f3706-21a5-450e-af75-3c2ffc450e91)
+---
+
 
 ## 📊 Dashboard Features (Built in Excel with PivotTables)
 
