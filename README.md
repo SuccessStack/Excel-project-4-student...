@@ -75,9 +75,7 @@ The dataset was sourced from the **UCI Machine Learning Repository**, and covers
 ### ✅ Data Cleaning
 - Checked for nulls and inconsistencies
 - Created new columns:
-  - `Grade Band` (Excellent, Average, Poor)
-  - `G1_to_G2_Change`, `G2_to_G3_Change` for tracking grade trends
-- Labeled coded fields (e.g., U/R → Urban/Rural)
+  - Average
 
 ### ✅ Tools Used
 - **Microsoft Excel** (main analysis tool)
